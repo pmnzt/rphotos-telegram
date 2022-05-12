@@ -23,7 +23,7 @@ bot.on('message', async (msg) => {
   // bot.sendPhoto(chatId, "https://random.imagecdn.app/500/" + (Math.floor(Math.random() * 500) + 150)); 
 
   
-  bot.sendPhoto(chatId, await getBuffer('https://source.unsplash.com/random')) 
+  bot.sendPhoto(chatId, await getBuffer(source)) 
   
 }); 
 

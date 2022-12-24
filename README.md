@@ -7,7 +7,3 @@
 ← `README.md`: That’s this file, where you can tell people what your cool website does and how you built it.
 
 ← `public/style.css`: The styling rules for your pages and posts.
-
-← `server.js`: The main server script for your new site.
-
-← `src/`: This folder holds page templates, additional scripts.

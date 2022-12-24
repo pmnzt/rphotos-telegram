@@ -11,7 +11,3 @@
 ← `server.js`: The main server script for your new site.
 
 ← `src/`: This folder holds page templates, additional scripts.
-
-### Working in the `src/` folder 📁
-
-← `src/pages/index.hbs`: This is the main page template for your site.
